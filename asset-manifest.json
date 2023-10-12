@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SHOPIFY/static/css/main.2a4bfe1e.css",
+    "main.js": "/SHOPIFY/static/js/main.3d44e9f5.js",
+    "index.html": "/SHOPIFY/index.html",
+    "main.2a4bfe1e.css.map": "/SHOPIFY/static/css/main.2a4bfe1e.css.map",
+    "main.3d44e9f5.js.map": "/SHOPIFY/static/js/main.3d44e9f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4bfe1e.css",
+    "static/js/main.3d44e9f5.js"
+  ]
+}
